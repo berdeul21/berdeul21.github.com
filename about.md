@@ -4,6 +4,27 @@ title: "About"
 permalink: /about/
 ---
 
+## Ruby On Rails
+
+[모바일 청첩장 프로젝트](https://github.com/berdeul21/mo-cheong)
+
+## Swift
+
+[Pie : 나의 하루 남기기](https://github.com/berdeul21/Pie)
+
+## Swift
+
+[Pie : 나의 하루 남기기](https://github.com/berdeul21/Pie)
+
+## 사진찍는것도 좋아하구요
+
+[@illy121212](https://www.instagram.com/illy121212/)
+
+## 매달 달력 배경화면을 만들기도해요
+
+
+
+
 whiteglass is a minimal, responsive Jekyll theme for hackers.
 
 ## Installation
