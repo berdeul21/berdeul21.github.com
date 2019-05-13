@@ -15,6 +15,7 @@ permalink: /about/
 ## 시도해본것들
 
 [Terraform](https://github.com/berdeul21/this_and_that#terraform)
+
 [AWS CodePipeline](https://github.com/berdeul21/aws-codepipeline-s3-codedeploy-linux)
 
 ## 사진찍는것도 좋아하구요
@@ -22,8 +23,7 @@ permalink: /about/
 [@illy121212](https://www.instagram.com/illy121212/)
 
 ## 매달 달력 배경화면을 만들기도해요
-
-
+![My helpful screenshot]({{ "/assets/images/05_may.PNG" | absolute_url }})
 
 
 whiteglass is a minimal, responsive Jekyll theme for hackers.
