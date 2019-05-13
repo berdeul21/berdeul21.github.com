@@ -12,9 +12,10 @@ permalink: /about/
 
 [Pie : 나의 하루 남기기](https://github.com/berdeul21/Pie)
 
-## Swift
+## 시도해본것들
 
-[Pie : 나의 하루 남기기](https://github.com/berdeul21/Pie)
+[Terraform](https://github.com/berdeul21/this_and_that#terraform)
+[AWS CodePipeline](https://github.com/berdeul21/aws-codepipeline-s3-codedeploy-linux)
 
 ## 사진찍는것도 좋아하구요
 
