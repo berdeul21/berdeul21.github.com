@@ -23,6 +23,8 @@ permalink: /about/
 
 [docker](https://github.com/berdeul21/this_and_that#docker)
 
+[jenkins](https://github.com/berdeul21/this_and_that#jenkins--docker)
+
 ## 사진찍는것도 좋아하구요
 
 [@illy121212](https://www.instagram.com/illy121212/)
